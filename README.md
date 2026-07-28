@@ -1,4 +1,4 @@
-# 🚀 Shan Portfolio
+# 🚀 Alfej Portfolio
 
 <div align="center">
 
@@ -7,15 +7,15 @@
 A premium personal portfolio built with modern frontend technologies, smooth animations, and a clean UI to showcase projects, skills, and experience.
 
 <p>
-  <a href="https://shan-portfolioo.netlify.app">
+  <a href="https://Alfej-portfolioo.netlify.app">
     <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Website-00C853?style=for-the-badge" />
   </a>
-  <a href="https://github.com/shajith23/shan-portfolio">
+  <a href="https://github.com/Alfejmalik/Alfej-portfolio">
     <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" />
   </a>
-  <img src="https://img.shields.io/github/stars/shajith23/shan-portfolio?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/shajith23/shan-portfolio?style=for-the-badge" />
-  <img src="https://img.shields.io/github/license/shajith23/shan-portfolio?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Alfejmalik/Alfej-portfolio?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/Alfejmalik/Alfej-portfolio?style=for-the-badge" />
+  <img src="https://img.shields.io/github/license/Alfejmalik/Alfej-portfolio?style=for-the-badge" />
 </p>
 
 </div>
@@ -28,11 +28,11 @@ A premium personal portfolio built with modern frontend technologies, smooth ani
 
 ### 🔗 Live Website
 
-**https://shan-portfolioo.netlify.app**
+**https://Alfej-portfolioo.netlify.app**
 
 ### 💻 GitHub Repository
 
-**https://github.com/shajith23/shan-portfolio**
+**https://github.com/Alfej-malik/Alfej-portfolio**
 
 ---
 
@@ -57,7 +57,7 @@ A premium personal portfolio built with modern frontend technologies, smooth ani
 
 # 🚀 Overview
 
-Shan Portfolio is a modern personal portfolio website built to showcase projects, skills, achievements, and services.
+Alfej Portfolio is a modern personal portfolio website built to showcase projects, skills, achievements, and services.
 
 The website focuses on:
 
@@ -143,186 +143,6 @@ Works perfectly on:
 | Magnific Popup | Image & Video Popups |
 | PureCounter | Animated Counters |
 
----
-
-# 📁 Folder Structure
-
-```text
-shan-portfolio/
-│
-├── index.html
-├── README.md
-│
-├── assets/
-│
-├── css/
-├── js/
-├── images/
-├── fonts/
-└── icons/
-```
-
----
-
-# 🚀 Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/shajith23/shan-portfolio.git
-```
-
-Open project
-
-```bash
-cd shan-portfolio
-```
-
----
-
-# ▶ Run Locally
-
-### Method 1
-
-Open
-
-```
-index.html
-```
-
----
-
-### Method 2
-
-Using VS Code
-
-Install
-
-```
-Live Server
-```
-
-Right Click
-
-```
-Open with Live Server
-```
-
----
-
-### Method 3
-
-Python
-
-```bash
-python3 -m http.server 8000
-```
-
-Visit
-
-```
-http://localhost:8000
-```
-
----
-
-# 🌐 Deployment
-
-## GitHub Pages
-
-```bash
-git init
-
-git add .
-
-git commit -m "Initial Commit"
-
-git branch -M main
-
-git remote add origin https://github.com/shajith23/shan-portfolio.git
-
-git push -u origin main
-```
-
-Enable
-
-```
-Settings
-
-↓
-
-Pages
-
-↓
-
-Deploy from main branch
-```
-
----
-
-## Netlify
-
-Drag & Drop
-
-OR
-
-Connect GitHub Repository
-
----
-
-## Vercel
-
-Import GitHub Repository
-
-Deploy
-
-Done ✅
-
----
-
-# 🎨 Customization
-
-Update
-
-- Name
-- Logo
-- Images
-- Portfolio Projects
-- Contact Information
-- Resume
-- Social Links
-- Theme Colors
-
-Everything can be customized inside
-
-```
-index.html
-```
-
-and
-
-```
-assets/
-```
-
----
-
-# 📈 Performance Goals
-
-✅ Responsive
-
-✅ SEO Friendly
-
-✅ Accessible
-
-✅ Optimized Assets
-
-✅ Smooth Animation
-
-✅ Cross Browser Compatible
-
----
-
 # 🌍 Browser Support
 
 - Chrome
@@ -344,53 +164,17 @@ assets/
 - Contact API
 - Admin Panel
 
----
-
-# 🤝 Contributing
-
-Contributions are welcome.
-
-1. Fork Repository
-
-2. Create Feature Branch
-
-```bash
-git checkout -b feature-name
-```
-
-3. Commit
-
-```bash
-git commit -m "Added Feature"
-```
-
-4. Push
-
-```bash
-git push origin feature-name
-```
-
-5. Open Pull Request
-
----
-
-# 📄 License
-
-This project is available for personal and commercial portfolio use.
-
----
-
 # 👨‍💻 Developer
 
-**Shajith (Shan)**
+**Alfejkhan (Alfej)**
 
 ### Portfolio
 
-https://shan-portfolioo.netlify.app
+https://Alfej-portfolioo.netlify.app
 
 ### GitHub
 
-https://github.com/shajith23
+https://github.com/Alfejmalik
 
 ---
 
@@ -398,6 +182,6 @@ https://github.com/shajith23
 
 ### ⭐ If you like this project, don't forget to Star the Repository!
 
-Made with ❤️ by **Shajith**
+Made with ❤️ by **Alfej**
 
 </div>
