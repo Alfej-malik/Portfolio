@@ -382,7 +382,7 @@ This project is available for personal and commercial portfolio use.
 
 # 👨‍💻 Developer
 
-**Shajith (Shan)**
+**Alfejkhan (Alfej)**
 
 ### Portfolio
 
@@ -398,6 +398,6 @@ https://github.com/shajith23
 
 ### ⭐ If you like this project, don't forget to Star the Repository!
 
-Made with ❤️ by **Shajith**
+Made with ❤️ by **Alfej khan**
 
 </div>

@@ -3709,9 +3709,16 @@ input:focus-visible {
 .max-w-80-px {
   max-width: 80px;
 }
-.max-w-200-px {
-  max-width: 200px;
+.max-w-200-px{
+    max-width: 140px;
 }
+
+@media (max-width:768px){
+    .max-w-200-px{
+        max-width: 90px;
+    }
+}
+
 .max-w-1140-px {
   max-width: 1140px;
 }
@@ -10068,6 +10075,34 @@ body.tw-magic-cursor #magic-cursor {
   .contact-ip-left {
     margin-block-end: 60px;
   }
+}
+
+
+}
+
+@keyframes developerUp{
+    to{
+        opacity:1;
+        transform:translateY(0);
+    }
+}
+
+
+
+
+.developer-text span{
+    display:inline-block;
+    cursor:pointer;
+    transition:transform .9s ease,color .9s ease;
+}
+
+.developer-text span:hover{
+    color:#96c56c;
+    transform:translateY(-60px) !important;
+}
+
+html {
+  scroll-behavior: smooth;
 }
 
 /*# sourceMappingURL=main.css.map */
