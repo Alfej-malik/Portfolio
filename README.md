@@ -166,7 +166,7 @@ Works perfectly on:
 
 # 👨‍💻 Developer
 
-**Alfejkhan (Alfej)**
+**Alfej-khan (Alfej)**
 
 ### Portfolio
 
